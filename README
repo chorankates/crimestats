@@ -1,0 +1,6 @@
+crimstats 
+
+
+# sanfrancisco.crimespotting.org/api
+# build cache of each query (since data is a week old by the time it is posted, it won't change) in a storable DB and use that if available
+# filter based on address (and default radius), crime type, time of day
